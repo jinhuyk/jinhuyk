@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @jinhuyk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 C, C++, Python, Java, JS, Tex
+- 🌱 studying : C++, Java, Tex
 
-<!---
-jinhuyk/jinhuyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+School
+- sema HighSchool 10th (2019.03. - 2022.01.)
+- sema HighSchool Science-focused class (2020.03. - 2022.01.)
+- Konkuk Univ. MAE (2022.03 -)
+
+Project
+- 카메라, 초음파, 마이크로파 센서를 이용한 능동적인 충돌 회피 알고리즘 개발 
+
+NOW Launching website📖: 
+https://semascience.herokuapp.com/
+https://fastreactor.netlify.app/
+
+
+
