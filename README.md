@@ -12,8 +12,9 @@ Project
 - 세마고등학교 과학실 물품관리 사이트 (2022)
 
 NOW Launching website📖: 
-https://semascience.herokuapp.com/
-https://fastreactor.netlify.app/
+- https://semascience.herokuapp.com/
+- https://semascience2.herokuapp.com/ (임시 서버)
+- https://fastreactor.netlify.app/
 
 
 
