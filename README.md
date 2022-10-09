@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinhuyk
-- 👀 C, C++, Python, Java, JS, Tex
-- 🌱 studying : C++, Java, Tex
+- 👀 C, Java, JS, Tex
+- 🌱 studying : JAVA, TypeScript, C++
 
 School
 - sema HighSchool 10th (2019.03. - 2022.01.)
