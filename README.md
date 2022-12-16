@@ -1,19 +1,14 @@
-- 👋 Hi, I’m @jinhuyk
-- 👀 C, Java, JS, Tex
-- 🌱 studying : JAVA, TypeScript, C++
+### 💻 My Stack
+<P>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=c&logoColor=white"> 
+</p>
 
-School
-- sema HighSchool 10th (2019.03. - 2022.01.)
-- sema HighSchool Science-focused class (2020.03. - 2022.01.)
-- Konkuk Univ. MAE (2022.03 -)
-
-Project
-- 카메라, 초음파, 마이크로파 센서를 이용한 능동적인 충돌 회피 알고리즘 개발(2020)
-- 세마고등학교 과학실 물품관리 사이트 (2022)
-
-NOW Launching website📖: 
-- https://port-0-semascience-fyyf25lbmid9vi.gksl2.cloudtype.app/
-- https://fastreactor.netlify.app/
-
-
-
+### 📖 Studying Language
+<p>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20OPP-007396?style=flat-square&logo=java&logoColor=white"> 
+</p>
