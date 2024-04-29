@@ -1,13 +1,15 @@
 ### 💻 Profile
 
-(now) Republic of Korea Army 
-Konkuk Univ. CSE
-Sema High. 10th
+Republic of Korea Army (23.10.31 - present )
+Konkuk Univ. CSE (Feb 2023 - present )
+Konkuk Univ. MAE (2022)
+Sema High. 10th (Mar 2019 - Jan 2022)
 
 ### 📖 Now Im Studying
 
-Algorithm 
-Back-end (Nest.js, Django, express.js...)
+- Language : C++, Typescript (Javascript), Python, Java
+- Topic : Algorithm, Datastuctures, Backend
+- Topic : Vision, Computer structures 
 
 
 
