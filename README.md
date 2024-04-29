@@ -1,15 +1,12 @@
 ### 💻 Profile
 
+(now) Republic of Korea Army 
 Konkuk Univ. CSE
 Sema High. 10th
 
-i love C++++++++
-
 ### 📖 Now Im Studying
+
 Algorithm 
-
-Data Structure
-
 Back-end (Nest.js, Django, express.js...)
 
 
