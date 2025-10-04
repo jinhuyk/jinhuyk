@@ -6,6 +6,6 @@
 - Language : C++, Typescript (Javascript), Python, Java
 - Topic 1 : Algorithm
 - Topic 2 : Quantum Mechanics
-- Topic 3 : Backend(Nest.JS, Node.JS, Express...) , FrontEnd(React,...)
+- Topic 3 : AI System + Process Develop
 
 - Project : Convert Latex to HWP format
