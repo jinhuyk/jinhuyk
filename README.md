@@ -4,6 +4,7 @@
 - Konkuk Univ. MAE (2022)
 
 #### project
+- develop Python company Package (Faikerz) 
 - Shopping Web data Parser (Faikerz)
 - Shopping Web Product Alive Check Process (Faikerz)
 - Shopping Web Product Crawler (Faikerz)
