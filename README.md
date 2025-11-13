@@ -4,10 +4,12 @@
 - Konkuk Univ. MAE (2022)
 
 #### project
+- develop python package launcher (Faikerz)
 - develop Python company Package (Faikerz) 
 - Shopping Web data Parser (Faikerz)
 - Shopping Web Product Alive Check Process (Faikerz)
 - Shopping Web Product Crawler (Faikerz)
+- MODEL BUILDER Using GPT-API (Faikerz)
 - Item Classifier prototype model Using GPT-API (Faikerz)
 - Item Classifier in Product Image Using Owlv2 model (Faikerz)
 - Compiler (Latex expression to Hwp expression) (School Term Project)
