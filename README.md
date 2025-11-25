@@ -4,6 +4,7 @@
 - Konkuk Univ. MAE (2022)
 
 #### project
+- develop Text type structuring Process (Faikerz)
 - develop python package launcher (Faikerz)
 - develop Python company Package (Faikerz) 
 - Shopping Web data Parser (Faikerz)
