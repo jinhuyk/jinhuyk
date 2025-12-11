@@ -4,16 +4,23 @@
 - Konkuk Univ. MAE (2022)
 
 #### project
-- develop Text type structuring Process (Faikerz)
-- develop python package launcher (Faikerz)
-- develop Python company Package (Faikerz) 
-- Shopping Web data Parser (Faikerz)
-- Shopping Web Product Alive Check Process (Faikerz)
-- Shopping Web Product Crawler (Faikerz)
-- MODEL BUILDER Using GPT-API (Faikerz)
-- Item Classifier prototype model Using GPT-API (Faikerz)
-- Item Classifier in Product Image Using Owlv2 model (Faikerz)
-- Compiler (Latex expression to Hwp expression) (School Term Project)
+- develop tiktok post scraper (Faikerz) (2025-12)
+- develop Text type structuring Process (Faikerz) (2025-12)
+- Item Classifier in Product Image Using Owlv2 model (Faikerz) (2025-11)
+- Shopping Web Product Alive Check Process (Faikerz) (2025-10)
+- Shopping Web Product Crawler (Faikerz) (2025-10)
+- MODEL BUILDER Using GPT-API (Faikerz) (2025-10)
+- develop python package launcher (Faikerz) (2025-10)
+- develop Python company Package (Faikerz)  (2025-10)
+- Shopping Web data Parser (Faikerz) (2025-10)
+- Item Classifier prototype model Using GPT-API (Faikerz) (2025-10)
+- Compiler (Latex expression to Hwp expression) (School Term Project) (2025-10 ~ 2025-12)
+
+
+
+
+
+
 
 
 #### What I learned
@@ -26,5 +33,6 @@
 #### What I want to learn?
 - Quantum Computing
 - Advanced Algorithm
+- interesting NP Algorithm
 
 
