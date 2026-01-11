@@ -1,32 +1,55 @@
-#### Profile
-- Faikerz Developer/System Assistant (2025.06 - present)
-- Konkuk Univ. CSE (moved) (2023.02 - present )
-- Konkuk Univ. MAE (2022)
+## Profile
+- Faikerz — Developer / System Assistant (Jun 2025 – Present)
+- Konkuk University — B.S. in Computer Science & Engineering (Transferred, Feb 2023 – Present)
+- Konkuk University — Mechanical & Aerospace Engineering (2022)
 
-#### project
-- develop Text type structuring Process (Faikerz) (2025-12)
-- Item Classifier in Product Image Using Owlv2 model (Faikerz) (2025-11)
-- MODEL BUILDER Using GPT-API (Faikerz) (2025-10)
-- Shopping Web data Parser (Faikerz) (2025-10)
-- Compiler (Latex expression to Hwp expression) (School Term Project) (2025-10 ~ 2025-12)
+---
 
+## Research & Study Interests
+- Advanced Algorithms (CLRS)
+- Quantum Information & Quantum Computing  
+  (IBM Quantum Computing Course)
 
+---
 
+## Projects
 
+### Industry
+- Text-Type Structuring Pipeline Development (Faikerz, Dec 2025)
+- Product Image Item Classification using OWL-V2 (Faikerz, Nov 2025)
+- Product Matching System with Computer Vision and OpenAI GPT-5 (Faikerz, 2025 – Present)
 
+### Personal
+- Compiler: LaTeX Expression to HWP Expression (Sep 2025 – Dec 2025)
+- Collision Avoidance Algorithm using Computer Vision and Machine Learning  
+  (Single-Camera Distance Estimation, 2019 – 2021)
 
+---
 
+## Technical Background
 
-#### What I learned
-- Algorithm
-- Theory of Computation (Automata)
-- System Programming
-- Compiler
+### Mathematics
+- Linear Algebra (2022)
+- Discrete Mathematics (2022)
 
+### Core Computer Science
+- Algorithms (2025)
+- Theory of Computation (Automata, 2025)
+- System Programming (2025)
+- Computer Organization (2023)
+- Data Structures (2023)
 
-#### What I want to learn?
+### Advanced Topics
+- Compiler Construction (2025)
+- Digital Image Processing (2023)
+
+### Foundations
+- Machine Learning (Fundamentals, 2022)
+- Artificial Intelligence (Fundamentals, 2022)
+
+---
+
+## Current Focus
 - Quantum Computing
-- Advanced Algorithm
-- interesting NP Algorithm
-
-
+- Advanced Algorithm Design and Analysis
+- NP and Computational Complexity–Related Problems
