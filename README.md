@@ -1,6 +1,6 @@
 ## Profile
 - Faikerz — Developer / System Assistant (Jun 2025 – Present)
-- Konkuk University — B.S. in Computer Science & Engineering (Transferred, Feb 2023 – Present)
+- Konkuk University — Computer Science & Engineering (Transferred, Feb 2023 – Present)
 - Konkuk University — Mechanical & Aerospace Engineering (2022)
 
 ---
