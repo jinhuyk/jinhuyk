@@ -15,6 +15,7 @@
 ## Projects
 
 ### Industry
+- Prefect ochestration System Development (Faikerz, Jan 2026)
 - Text-Type Structuring Pipeline Development (Faikerz, Dec 2025)
 - Product Image Item Classification using OWL-V2 (Faikerz, Nov 2025)
 - Product Matching System with Computer Vision and OpenAI GPT-5 (Faikerz, 2025 – Present)
