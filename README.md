@@ -15,6 +15,7 @@
 ## Projects
 
 ### Industry
+- find Copyright-Infringement system with DINOv2 + CV (Faikerz, Feb 2026)
 - Prefect ochestration System Development (Faikerz, Jan 2026)
 - Text-Type Structuring Pipeline Development (Faikerz, Dec 2025)
 - Product Image Item Classification using OWL-V2 (Faikerz, Nov 2025)
