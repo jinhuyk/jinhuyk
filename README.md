@@ -8,10 +8,10 @@
 ---
 
 ## Research & Study Interests
-- Explainable AI
-- TrustWorthy ML
 - Quantum Information & Quantum Computing
 - Quantum Machine Learning
+- Explainable AI
+- TrustWorthy ML
 - - NP and Computational Complexity–Related Problems
 
 
