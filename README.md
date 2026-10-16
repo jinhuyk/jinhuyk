@@ -1,5 +1,5 @@
 ## Profile
-- TrustWorthy ML Lab Intern (Jun 2026 - Present)
+- TrustWorthy ML Lab, Konkuk CSE (Jun 2026 - Present)
 - Faikerz - AI Engineer (Jun 2026 - Present)
 - Faikerz — System Assistant (Jun 2025 – May 2026)
 - Konkuk University — Computer Science & Engineering B.S. (Transferred, Feb 2023 – Present)
