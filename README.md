@@ -12,8 +12,6 @@
 - Quantum Machine Learning
 - Explainable AI
 - TrustWorthy ML
-- NP and Computational Complexity–Related Problems
-
 
 ---
 
